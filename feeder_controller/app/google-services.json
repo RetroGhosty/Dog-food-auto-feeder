@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "200441322654",
+    "firebase_url": "https://rhodes-db-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "rhodes-db",
+    "storage_bucket": "rhodes-db.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:200441322654:android:51218371b163961ba6af8f",
+        "android_client_info": {
+          "package_name": "talipapa.lab.feeder_controller"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDr2kiEkiynJHhAZ4TSupWlGcN_TeQPibI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

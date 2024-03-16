@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">feeder_controller</string>
+    <string name="feed_now">Feed now</string>
+    <string name="oreo_feeder_device">Oreo feeder device</string>
+    <string name="device_details">Device details</string>
+    <string name="nullString">null</string>
+    <string name="servo_activation">Servo activation</string>
+    <string name="schedules">Schedules</string>
+    <string name="servo_status">Servo status</string>
+    <string name="delete">Delete</string>
+    <string name="add_schedule">Add schedule</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
