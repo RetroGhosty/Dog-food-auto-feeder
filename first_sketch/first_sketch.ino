@@ -16,14 +16,16 @@
 // https://github.com/mobizt/Firebase-ESP8266?tab=readme-ov-file#realtime-database
 // https://github.com/mobizt/Firebase-ESP-Client/tree/main/examples/RTDB
 
-#define API_KEY "AIzaSyDEihkhy5tYd2cebL288qEIGiyccHpPfN0"
-#define DATABASE_URL "https://rhodes-db-default-rtdb.asia-southeast1.firebasedatabase.app/"
+// Firebase api key
+#define API_KEY "" 
+//Firebase db url
+#define DATABASE_URL "" 
 
-const char* ssid="MSG";
-const char* password="Toutou@181017";
+const char* ssid=""; // Wifi name
+const char* password=""; // Wifi password 
 
 FirebaseData fbdo;
-FirebaseAuth auth;
+FirebaseAuth auth; 
 FirebaseConfig config;
 
 unsigned long sendDataPrevMillis = 0;
